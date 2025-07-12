@@ -141,9 +141,9 @@ const HeroSection = () => {
                             </li>
                         </ul>
 
-                        <button className="text-lg border-solid border-2 bg-white mt-12 px-16 py-6 text-sky-400 shadow-md shadow-gray-100 rounded-full hover:shadow-md hover:shadow-sky-700 hover:translate-x-4 duration-300">
+                        <a href="https://github.com/ayush03b/blip">
                             Github Repo
-                        </button>
+                        </a>
                     </div>
                 </section>
                 <section className="relative md:pl-16 mt-24 flex items-start flex-col md:flex-row justify-evenly">
