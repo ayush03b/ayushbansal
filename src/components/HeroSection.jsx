@@ -56,7 +56,7 @@ const HeroSection = () => {
                                     Download Resume
                                 </a>
                             </button>
-                            <p className="text-lg text-gray-500 mt-2 px-8">
+                            <p className="text-lg text-gray-500 mt-10 px-8">
                                 Let's connect :{" "}
                                 <a
                                     href="https://github.com/ayush03b"
@@ -82,6 +82,7 @@ const HeroSection = () => {
                     <div className="flex flex-row w-full text-sky-100 drop-shadow-md font-mono text-xs px-4 py-6">
                         <pre className="whitespace-pre leading-tight tracking-tight text-2xl pl-24">
                             {`
+
 
 ██████╗ ██████╗  ██████╗      ██╗███████╗ ██████╗████████╗███████╗
 ██╔══██╗██╔══██╗██╔═══██╗     ██║██╔════╝██╔════╝╚══██╔══╝██╔════╝
